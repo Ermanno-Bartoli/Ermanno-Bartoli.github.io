@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ermanno-bartoli.github.io/al-folio/sitemap.xml
+Sitemap: https://ermanno-bartoli.github.io/sitemap.xml
