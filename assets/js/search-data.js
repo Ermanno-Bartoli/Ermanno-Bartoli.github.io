@@ -35,22 +35,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-announcement-4",
-          title: 'Announcement_4',
+            },},{id: "news-️-i-joined-kth-as-research-assistant",
+          title: '☃️ I joined KTH as Research Assistant.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4.html";
-            },},{id: "news-announcement-5",
-          title: 'Announcement_5',
+          section: "News",},{id: "news-i-obtained-my-bachelor-s-in-computer-engineering-top-3-students",
+          title: '🎓 I obtained my Bachelor’s in Computer Engineering (Top 3% students).',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_5.html";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+          section: "News",},{id: "news-i-obtained-my-master-s-degree-in-artificial-intelligence-and-robotics-top-5-students",
+          title: '🎓 I obtained my Master’s Degree in Artificial Intelligence and Robotics (Top 5%...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3.html";
-            },},{id: "news-i-joined-kth-as-a-phd",
+          section: "News",},{id: "news-i-joined-kth-as-a-phd",
           title: '🤖 I joined KTH as a PhD.',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-ieee-ro-man-2025",
