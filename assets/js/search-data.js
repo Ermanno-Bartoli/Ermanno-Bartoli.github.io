@@ -50,9 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-to-ieee-ro-man-2025",
           title: '📃🥳 Two papers accepted to IEEE RO-MAN 2025.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-bear-in-mind",
+          title: 'Bear In Mind',
+          description: "The app for learning a new language",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{
