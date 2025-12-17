@@ -12,11 +12,12 @@ toc:
 
 {% assign cv_path = '/assets/pdf/bartoli_cv.pdf' | relative_url %}
 
-<div class="embed-responsive embed-responsive-1by1" style="min-height: 80vh;">
-  <object data="{{ cv_path }}" type="application/pdf" width="100%" height="100%">
-    <p>
-      Your browser can’t display the PDF inline.
-      <a href="{{ cv_path }}" target="_blank">Open the CV in a new tab.</a>
-    </p>
-  </object>
-</div>
+<script>
+  window.location.href = "{{ cv_path }}";
+</script>
+<meta http-equiv="refresh" content="0; url={{ cv_path }}">
+
+<p>
+  Redirecting to your CV PDF.
+  If you are not redirected automatically, <a href="{{ cv_path }}">open it here</a>.
+</p>

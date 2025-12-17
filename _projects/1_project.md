@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Bear In Mind
+description: The app for learning a new language
 img: assets/img/Bear_in_mind_app_locandina.png
 importance: 1
 category: fun
