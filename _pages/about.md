@@ -27,4 +27,4 @@ I’m interested in how robots can build and maintain human-centric understandin
 
 Previously, I graduated from [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) 🇮🇹 with a Bachelor’s in Computer Engineering, where I was selected for the Honour Programme in Computer Engineering (top 10 students). I continued my studies at Sapienza in the [Department of Computer, Control and Management Engineering](https://www.diag.uniroma1.it/en), earning a Master’s Degree in Artificial Intelligence and Robotics and again being selected for the Honour Programme (top 10 students). During my Master’s thesis, I joined KTH 🇸🇪 as a Research Assistant under the supervision of Iolanda Leite.
 
-[google scholar](https://scholar.google.com/citations?user=rd0DFrIAAAAJ&hl=it&oi=ao) \| [github](https://github.com/Ermanno-Bartoli) \| [linkedin](https://it.linkedin.com/in/ermanno-bartoli-9b2468180)
+[google scholar](https://scholar.google.com/citations?user=rd0DFrIAAAAJ) \| [github](https://github.com/Ermanno-Bartoli) \| [linkedin](https://it.linkedin.com/in/ermanno-bartoli-9b2468180)
