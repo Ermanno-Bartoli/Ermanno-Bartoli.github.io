@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Ermanno Bartoli CV",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/bartoli_cv.pdf";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "On my free time I like to carry on projects which are not directly related to my research. Here I want to highlight one in particular.",
