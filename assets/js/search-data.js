@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Ermanno Bartoli CV",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/assets/pdf/bartoli_cv.pdf";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "On my free time I like to carry on projects which are not directly related to my research. Here I want to highlight one in particular.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -49,6 +49,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-ieee-ro-man-2025",
           title: '📃🥳 Two papers accepted to IEEE RO-MAN 2025.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-ieee-ro-man-2026",
+          title: '📃🥳 One paper accepted to IEEE RO-MAN 2026.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-ieee-rsj-iros-2026",
+          title: '📃🥳 One paper accepted to IEEE/RSJ IROS 2026.',
           description: "",
           section: "News",},{id: "projects-bear-in-mind",
           title: 'Bear In Mind',
