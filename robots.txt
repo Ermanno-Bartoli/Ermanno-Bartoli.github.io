@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ermanno-bartoli.github.io/sitemap.xml
